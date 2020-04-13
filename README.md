@@ -1,4 +1,4 @@
-# intro-to-vue
+# Intro to vue
 My first course about Vue
 
 # Course
